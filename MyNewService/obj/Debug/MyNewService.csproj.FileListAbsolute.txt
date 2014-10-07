@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.pdb
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.MyNewService.resources
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.exe
+c:\users\user\documents\visual studio 2013\Projects\MyNewService\MyNewService\obj\Debug\MyNewService.pdb

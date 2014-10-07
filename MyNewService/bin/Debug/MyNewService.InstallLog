@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\User\Documents\Visual Studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual Studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual Studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Устанавливается служба MyNewService...
+Служба MyNewService успешно установлена.
+Создается исходный EventLog MyNewService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\User\Documents\Visual Studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\User\Documents\Visual Studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\Users\User\Documents\Visual Studio 2013\Projects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
